@@ -189,7 +189,7 @@ class test(){
 ![텍스트](/이미지 이름.형식)
 ![구글](/google.png)
 ```
-![구글](/Markdown\google.png)
+
 
 * 링크 이미지
 ```
