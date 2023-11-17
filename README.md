@@ -1,5 +1,5 @@
 # My TIL(Today I Learn)
 
-- [Markdown](Markdown\README.md)
+- [Markdown](Markdown/README.md)
 
-- [Git](Git\README.md)
+- [Git](Git/README.md)
