@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/myLinkedList.iml" filepath="$PROJECT_DIR$/myLinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backjoon.iml" filepath="$PROJECT_DIR$/backjoon.iml" />
     </modules>
   </component>
 </project>
